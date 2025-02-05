@@ -1,0 +1,6 @@
+C:\Users\Professional Editing\source\repos\WebApplication\Props\bin\Debug\Props.dll
+C:\Users\Professional Editing\source\repos\WebApplication\Props\bin\Debug\Props.pdb
+C:\Users\Professional Editing\source\repos\WebApplication\Props\obj\Debug\Props.csproj.AssemblyReference.cache
+C:\Users\Professional Editing\source\repos\WebApplication\Props\obj\Debug\Props.csproj.CoreCompileInputs.cache
+C:\Users\Professional Editing\source\repos\WebApplication\Props\obj\Debug\Props.dll
+C:\Users\Professional Editing\source\repos\WebApplication\Props\obj\Debug\Props.pdb

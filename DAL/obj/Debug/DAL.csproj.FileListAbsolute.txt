@@ -1,0 +1,9 @@
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\bin\Debug\DAL.dll
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\bin\Debug\DAL.pdb
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\bin\Debug\Props.dll
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\bin\Debug\Props.pdb
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\obj\Debug\DAL.dll
+C:\Users\Professional Editing\source\repos\WebApplication\DAL\obj\Debug\DAL.pdb

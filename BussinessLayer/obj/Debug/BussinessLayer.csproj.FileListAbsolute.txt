@@ -1,0 +1,11 @@
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\bin\Debug\DAL.dll
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\bin\Debug\Props.dll
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\bin\Debug\DAL.pdb
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\bin\Debug\Props.pdb
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\Professional Editing\source\repos\WebApplication\BussinessLayer\obj\Debug\BussinessLayer.pdb
